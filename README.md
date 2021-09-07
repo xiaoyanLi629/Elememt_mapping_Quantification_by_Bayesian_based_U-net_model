@@ -10,7 +10,7 @@
 #### conda install -c menpo opencv
 #### conda install matplotlib
 conda install -c conda-forge albumentations
-
+conda
 conda install -c menpo opencv
 
 
