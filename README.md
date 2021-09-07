@@ -3,10 +3,10 @@
 
 ## conda environments
 
-### conda create -n elements_mapping python=3.7
-### conda activate elements_mapping
+#### conda create -n elements_mapping python=3.7
+#### conda activate elements_mapping
 
-### pip install segmentation-models-pytorch
+#### pip install segmentation-models-pytorch
 #### conda install -c menpo opencv
 # 
 
