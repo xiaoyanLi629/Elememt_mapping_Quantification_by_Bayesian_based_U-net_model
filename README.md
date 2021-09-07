@@ -9,6 +9,7 @@
 #### pip install segmentation-models-pytorch
 #### conda install -c menpo opencv
 #### conda install matplotlib
+conda install -c conda-forge albumentations
 
 conda install -c menpo opencv
 
