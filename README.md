@@ -7,7 +7,7 @@
 ### conda activate elements_mapping
 
 ### pip install segmentation-models-pytorch
-### conda install -c menpo opencv
+#### conda install -c menpo opencv
 # 
 
 conda install -c menpo opencv
