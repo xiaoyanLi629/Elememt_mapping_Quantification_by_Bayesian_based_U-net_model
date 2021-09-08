@@ -16,6 +16,7 @@ conda install -c conda-forge albumentations
 
 conda install -c menpo opencv
 
+pip install torchvision==0.5.0
 
 https://user-images.githubusercontent.com/28584416/131885240-9179ab95-924f-47ca-a2ca-c4599e8deaaf.mp4
 
