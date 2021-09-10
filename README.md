@@ -17,8 +17,10 @@ conda install -c conda-forge albumentations
 conda install -c menpo opencv
 
 #########################################
+
 The following issue will occur
 
+```
 Traceback (most recent call last):
   File "Model3_2.py", line 426, in <module>
     train_logs = train_epoch.run(train_loader)
@@ -27,7 +29,9 @@ Traceback (most recent call last):
   File "/home/xiaoyan/anaconda3/envs/elements_mapping/lib/python3.7/site-packages/torch/nn/modules/module.py", line 781, in __getattr__
     type(self).__name__, name))
 torch.nn.modules.module.ModuleAttributeError: 'JaccardLoss' object has no attribute '__name__'
+```
   
+
 This is a python issue not pytorch issue
   https://stackoverflow.com/questions/50542177/correct-handling-of-attributeerror-in-getattr-when-using-property
   
