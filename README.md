@@ -30,6 +30,7 @@ torch.nn.modules.module.ModuleAttributeError: 'JaccardLoss' object has no attrib
   
 This is a python issue not pytorch issue
   https://stackoverflow.com/questions/50542177/correct-handling-of-attributeerror-in-getattr-when-using-property
+  
   https://github.com/pytorch/pytorch/issues/13981
   
 Solution:
