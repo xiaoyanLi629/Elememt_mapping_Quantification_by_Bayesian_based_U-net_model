@@ -1,5 +1,17 @@
 # Elememt_mapping_Quantification_by_Bayesian_based_U-net_model
 
+## Lambda environment
+
+```
+Pythpn == 3.8
+
+pip install -U segmentation-models-pytorch albumentations --user 
+
+pip install opencv-python
+
+pip install segmentation-models-pytorch
+
+```
 
 ## conda environments
 conda create -n elements_mapping python=3.7
