@@ -11,6 +11,8 @@ pip install opencv-python
 
 pip install segmentation-models-pytorch
 
+pip3 install torch torchvision
+
 ```
 
 ## conda environments
