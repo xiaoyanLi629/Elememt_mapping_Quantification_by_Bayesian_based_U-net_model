@@ -2,6 +2,13 @@
 
 ## Lambda environment
 
+Need to edit the train.py file in lib/oython3.8/site-packages/segmentation_models_pytorch/utils/train.py
+
+```
+# In line 52, add
+self.loss.__name__ = 'loss_name'
+```
+
 ```
 Pythpn == 3.8
 
